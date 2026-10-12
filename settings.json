@@ -1,0 +1,27 @@
+{
+  "confirm_before_work": false,
+  "pause_min": 5,
+  "pause_max": 5,
+  "save_logs": true,
+  "excel_auto_save": true,
+  "show_browser": true,
+  "pause_on_error": true,
+  "keep_browser_after_work": true,
+  "excel_dir": "",
+  "keyword": "갑오징어",
+  "filters": {},
+  "target_count": 20,
+  "my_blog_url": "",
+  "daily_limit": 30,
+  "pause_unit": "초",
+  "speed_min": 0.5,
+  "speed_max": 1.0,
+  "conditions": {
+    "open_year": "2003",
+    "neighbors": "500",
+    "visitors": "5000",
+    "daily": "100",
+    "posts": "30",
+    "target": "3"
+  }
+}

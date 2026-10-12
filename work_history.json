@@ -1,0 +1,212 @@
+[
+  {
+    "date": "2026-10-10",
+    "time": "12:27:49",
+    "work_type": "서로이웃 신청",
+    "blog_id": "testblog1",
+    "blog_name": "테스트블로그",
+    "message": "안녕하세요",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:27:49",
+    "work_type": "댓글",
+    "blog_id": "testblog1",
+    "blog_name": "테스트블로그",
+    "message": "좋은 글",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:27:49",
+    "work_type": "공감",
+    "blog_id": "testblog2",
+    "blog_name": "실패블로그",
+    "message": "",
+    "result": "실패",
+    "error": "테스트 실패"
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:32:04",
+    "work_type": "서로이웃 신청",
+    "blog_id": "ssuujin",
+    "blog_name": "라비로그",
+    "message": "공감할 수 있는 이야기들이 많아 기분 좋게 읽었습니다. 서로 편안하게 소통하는 이웃이 되었으면 합니다.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:32:33",
+    "work_type": "공감",
+    "blog_id": "ssuujin",
+    "blog_name": "라비로그",
+    "message": "",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:33:35",
+    "work_type": "댓글",
+    "blog_id": "ssuujin",
+    "blog_name": "라비로그",
+    "message": "자연스럽게 읽히는 글이라 끝까지 즐겁게 보았습니다. 오늘도 좋은 일 가득하시고 행복하게 보내세요.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:34:45",
+    "work_type": "서로이웃 신청",
+    "blog_id": "wookyungmom",
+    "blog_name": "투우맘",
+    "message": "반가운 마음으로 블로그를 둘러보고 인사드립니다. 앞으로 편안하고 꾸준한 소통 이어가길 바랍니다.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:35:15",
+    "work_type": "공감",
+    "blog_id": "wookyungmom",
+    "blog_name": "투우맘",
+    "message": "",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:36:19",
+    "work_type": "댓글",
+    "blog_id": "wookyungmom",
+    "blog_name": "투우맘",
+    "message": "방문할 때마다 새로운 내용을 접할 수 있어 좋네요. 오늘도 좋은 글 감사드리며 행복한 하루 보내세요.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:36:47",
+    "work_type": "서로이웃 신청",
+    "blog_id": "bongs1021",
+    "blog_name": "봉스레시피",
+    "message": "좋은 글과 따뜻한 분위기가 인상적이었습니다. 앞으로 서로의 이야기에 관심을 나누는 이웃이 되면 좋겠습니다.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:37:03",
+    "work_type": "공감",
+    "blog_id": "bongs1021",
+    "blog_name": "봉스레시피",
+    "message": "",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "12:37:56",
+    "work_type": "댓글",
+    "blog_id": "bongs1021",
+    "blog_name": "봉스레시피",
+    "message": "글을 읽는 동안 마음이 편안해지는 느낌이었습니다. 소소한 이야기도 나누어 주셔서 감사하고 따뜻한 하루 보내세요.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-12",
+    "time": "10:49:41",
+    "work_type": "서로이웃 신청",
+    "blog_id": "ozzii-",
+    "blog_name": "오찌네 제철밥상",
+    "message": "블로그에 담긴 정성과 진심이 느껴져 반갑게 인사드립니다. 서로 좋은 정보를 나누며 오래 소통하면 좋겠습니다.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-12",
+    "time": "10:50:16",
+    "work_type": "공감",
+    "blog_id": "ozzii-",
+    "blog_name": "오찌네 제철밥상",
+    "message": "",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-12",
+    "time": "10:51:29",
+    "work_type": "댓글",
+    "blog_id": "ozzii-",
+    "blog_name": "오찌네 제철밥상",
+    "message": "잔잔한 이야기들이 마음에 남네요. 정성스러운 포스팅 감사드리며 오늘도 기분 좋은 하루 보내세요.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-12",
+    "time": "10:52:41",
+    "work_type": "서로이웃 신청",
+    "blog_id": "phpnet",
+    "blog_name": "배꽃의 소박한 밥상이야기",
+    "message": "유익한 글을 만날 수 있어 기분 좋은 시간이었습니다. 앞으로 자주 방문하며 따뜻한 인사 나누겠습니다.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-12",
+    "time": "10:53:16",
+    "work_type": "공감",
+    "blog_id": "phpnet",
+    "blog_name": "배꽃의 소박한 밥상이야기",
+    "message": "",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-12",
+    "time": "10:53:54",
+    "work_type": "댓글",
+    "blog_id": "phpnet",
+    "blog_name": "배꽃의 소박한 밥상이야기",
+    "message": "글을 읽는 동안 마음이 편안해지는 느낌이었습니다. 소소한 이야기도 나누어 주셔서 감사하고 따뜻한 하루 보내세요.",
+    "result": "실패",
+    "error": "댓글 입력창/등록 버튼 실패"
+  },
+  {
+    "date": "2026-10-12",
+    "time": "10:55:15",
+    "work_type": "서로이웃 신청",
+    "blog_id": "ichat",
+    "blog_name": "제철건강 노트",
+    "message": "필요한 정보를 찾다가 좋은 블로그를 만나게 되었네요. 앞으로 종종 찾아뵙고 소통하겠습니다.",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-12",
+    "time": "10:55:45",
+    "work_type": "공감",
+    "blog_id": "ichat",
+    "blog_name": "제철건강 노트",
+    "message": "",
+    "result": "성공",
+    "error": ""
+  },
+  {
+    "date": "2026-10-12",
+    "time": "10:56:39",
+    "work_type": "댓글",
+    "blog_id": "ichat",
+    "blog_name": "제철건강 노트",
+    "message": "정성스러운 기록을 공유해 주셔서 감사합니다. 앞으로도 좋은 이야기와 유익한 정보 많이 나누어 주세요.",
+    "result": "성공",
+    "error": ""
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "keyword": "이불",
+  "filters": {
+    "min_operating_years": 1,
+    "min_neighbors": 500,
+    "min_visitors": 5000,
+    "min_daily_visitors": 100,
+    "min_posts": 50
+  },
+  "target_count": 5,
+  "my_blog_url": "blog.naver.com/caelus24",
+  "naver_id": "mega808",
+  "delay": "90",
+  "daily_limit": "50"
+}

@@ -1,0 +1,319 @@
+{
+  "cookies": [
+    {
+      "name": "nid_slevel",
+      "value": "1",
+      "domain": ".nid.naver.com",
+      "path": "/",
+      "expires": 1823305691,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NAC",
+      "value": "nZfYCYi9sbKhA",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1826329690.433816,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NNB",
+      "value": "YDDJ4GGTZKHGU",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1826329713.034842,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "BA_DEVICE",
+      "value": "48d0a9e4-6f04-4007-a9ef-d94ca7c91ce4",
+      "domain": ".blog.naver.com",
+      "path": "/",
+      "expires": 1822302945,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "2F314245ACC2824BD0234EA3B88849B3.jvm1",
+      "domain": "m.blog.naver.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "2FB2B67C67778CD2B0CAC185A9771661.jvm1",
+      "domain": "blog.naver.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID_SAUTO",
+      "value": "DFzZOdy4HQDMsHxp+99tKf9VqMcCbJU1g5NbfjyCrNoMCV1EoA9mHUXwwRIqNMRo",
+      "domain": ".nid.naver.com",
+      "path": "/",
+      "expires": 1794361711.932004,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NMUSER",
+      "value": "n_Fdw_5UoGIohzulIn3J3aMcdrYQQ-2sfzenGA4smXsEvAcJcqMl84sU5LbMlJ22yy2ReWpf3jnLNFVr0Ljo7qA9BJrXs8f-QSdz768jXqHHhYgK7glRL1sRUMuqAJXAGbWwLpOWGVA1DHNR2WCqte1mR1Xy0LKhOb2FsY_DjawAVeluUtJQK3aqvPt226TWYGthlSxqGPJHSIuQROAZ8nIV6JAxjFpKBNw9xFpwOpI3IjCXKR9e",
+      "domain": "mail.naver.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MM_search_homefeed",
+      "value": "true",
+      "domain": "m.naver.com",
+      "path": "/",
+      "expires": 1792633690,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NACT",
+      "value": "1",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1791856090.441158,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SRT30",
+      "value": "1791769690",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1791771513.035049,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRT5",
+      "value": "1791769690",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1791770013.035207,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MM_PF",
+      "value": "SEARCH",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1791770613,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID_JST",
+      "value": "D0aJvOVzKqv63tjFMoHD8A1NZihRd+oakPuCM/vuIgrRqZ5dbmFdERgS2v8EhyBW+MiqnOeJNx24oaMfJ8bYuGvgbkxzH9EpiSVWLQGeNBbWBVDF4tD0y0wujaD8IlOlp9yM8x0D3MPy9SODbpCG9BK/zcwKsIoSKQ3HNSrOgV8=",
+      "domain": ".nid.naver.com",
+      "path": "/",
+      "expires": 1809049691.599704,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "nid_inf",
+      "value": "-1605981291",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID_AUT",
+      "value": "bAbzAZRv07G3jJz555sVSniSjKitrUjym6btg7JZNsIYOHphVjlkxxpuXBoW2rQZ",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID_SES",
+      "value": "AAABsoukU8sWKLuzyzM9gV7X+QVe8YJuJFOw1P3xkNOV8SoRUmZc8Q25OsKwWyZaPnSJ+CwvOtUAnmU9CLlgwYgHYopmnHbFvTMheUx8w4NU60F0Kgkx3HI73jgUsA76fPqgp1r3JX3TPVYL3z5C93CVm42ippb64jfY5B9kDXhAUoqWZLhC8tE0RhP5BN8k9vKaAAOULa9lDyYhtEMjQbbLKzCu9FtSNZ3Hfr23MEeLPleYIY2Nz1WMGzjKr4QCT8S+2UBvdcr9OybuH7MKSY0yTheco8z5/uX8gz4ZDSisKx2FGDOipVbuS8Lqf4p5FgD8gKdI40Q5oN+bYLwfQOZp8JpAWzlT3X61nI7XKbP5WUV5XqTmJhnAXNuqr2deEhqv9rJmMq7j5PW8HycqA1WhXiKQMPykbfFfAguASOo7Eqg9q9rRvIzM4wT5GVR8JnFx2Wtdhk8N7IKH1+37KPIXcp6t8UiTXd3JWPE3w44ZAIhGLwIa07Mi1Q4Qa2tTaFHUOluovprtyfAfwRjQ5jB97ikGgLLwaUZrNpuV1eErrlkOadXoJsTGD6PsecDT7Z9gcSlIPPqVACh0nDOwqEe0W5I=",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MM_v3_contents_rcmd",
+      "value": "NEWS%3BENT%3BSPORTS%3BSHOPPING%3BDATA%3BSHORTS%3BFASHION-BEAUTY%3BLIVING%3BCARGAME%3BLECTURE%3BLIVINGHOME%3BHEALTH%3BGAMEAPP%3BBBOOM%3BPLACE",
+      "domain": "m.naver.com",
+      "path": "/",
+      "expires": 1823305712.161457,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MM_LAST_REFERER",
+      "value": "https://nid.naver.com/",
+      "domain": "m.naver.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BUC",
+      "value": "JiXbVPSyvfJI0bFWnzybXiZ7R4qAGzQ_uM057Gaa1-k=",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1826329713.035306,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://m.naver.com",
+      "localStorage": [
+        {
+          "name": "glad_loader_policy_info",
+          "value": "{\"regDate\":\"2026-10-08T01:26:11.674Z\",\"data\":{\"versionInfo\":{\"policyVersion\":\"261007.01\",\"loaderVersion\":\"1.6.2\",\"sdkVersion\":\"3.11.0\"},\"sdkInfo\":{},\"sentryInfo\":{\"enableSentry\":true,\"config\":{\"sampleRate\":0.001}}}}"
+        },
+        {
+          "name": "MA_DAILY_STATUS",
+          "value": "20261012"
+        }
+      ]
+    },
+    {
+      "origin": "https://mail.naver.com",
+      "localStorage": [
+        {
+          "name": "glad_loader_policy_info",
+          "value": "{\"regDate\":\"2026-09-10T14:20:37.768Z\",\"data\":{\"versionInfo\":{\"policyVersion\":\"260723.01\",\"loaderVersion\":\"1.6.2\",\"sdkVersion\":\"3.10.7\"},\"sdkInfo\":{\"latestRatio\":1,\"config\":{}},\"sentryInfo\":{\"enableSentry\":false,\"config\":{\"sampleRate\":0.001}}}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://m.blog.naver.com",
+      "localStorage": [
+        {
+          "name": "glad_loader_policy_info",
+          "value": "{\"regDate\":\"2026-08-26T11:15:46.168Z\",\"data\":{\"versionInfo\":{\"policyVersion\":\"260723.01\",\"loaderVersion\":\"1.6.2\",\"sdkVersion\":\"3.10.7\"},\"sdkInfo\":{\"latestRatio\":1,\"config\":{}},\"sentryInfo\":{\"enableSentry\":false,\"config\":{\"sampleRate\":0.001}}}}"
+        },
+        {
+          "name": "LOTTIE_LATEST_ANIMATION_STORAGE_KEY",
+          "value": "1787749381949"
+        },
+        {
+          "name": "fbapc_441801156302191",
+          "value": "{\"config\":{\"fedcmDefault\":false},\"expiresAt\":1787829346289}"
+        },
+        {
+          "name": "BA_DEVICE",
+          "value": "{\"deviceId\":\"48d0a9e4-6f04-4007-a9ef-d94ca7c91ce4\"}"
+        },
+        {
+          "name": "teamblog.update.time",
+          "value": "1787535795129"
+        },
+        {
+          "name": "__tmp_____persist___",
+          "value": "___persist___"
+        },
+        {
+          "name": "postview.visit.record",
+          "value": "{\"firstView\":{\"blogId\":\"ssieie\",\"logNo\":224379847139,\"elapsed\":12647},\"secondView\":{\"blogId\":\"krwn\",\"logNo\":224377200859,\"elapsed\":50024}}"
+        },
+        {
+          "name": "read.history.store",
+          "value": "[{\"blogId\":\"krwn\",\"logNo\":\"224377200859\",\"readDate\":\"2026-08-26T13:26:05.503Z\"},{\"blogId\":\"ssieie\",\"logNo\":\"224379847139\",\"readDate\":\"2026-08-26T13:23:56.196Z\"},{\"blogId\":\"earthfood\",\"logNo\":\"224348547728\",\"readDate\":\"2026-08-26T13:05:59.612Z\"},{\"blogId\":\"boru130\",\"logNo\":\"224380947792\",\"readDate\":\"2026-08-26T13:04:30.074Z\"},{\"blogId\":\"psy9133\",\"logNo\":\"224378542671\",\"readDate\":\"2026-08-26T13:04:00.018Z\"},{\"blogId\":\"dessert1905\",\"logNo\":\"224361841874\",\"readDate\":\"2026-08-26T13:02:11.156Z\"},{\"blogId\":\"ds4098\",\"logNo\":\"224381154427\",\"readDate\":\"2026-08-26T12:40:21.918Z\"},{\"blogId\":\"iynk330\",\"logNo\":\"224379419824\",\"readDate\":\"2026-08-26T12:37:29.749Z\"},{\"blogId\":\"ichat\",\"logNo\":\"224381121538\",\"readDate\":\"2026-08-26T12:37:16.870Z\"},{\"blogId\":\"el512\",\"logNo\":\"224382529240\",\"readDate\":\"2026-08-26T12:37:08.500Z\"},{\"blogId\":\"95796038\",\"logNo\":\"224376274172\",\"readDate\":\"2026-08-26T12:36:56.003Z\"},{\"blogId\":\"agentkitty\",\"logNo\":\"224386042342\",\"readDate\":\"2026-08-26T12:36:43.380Z\"},{\"blogId\":\"kfdazzang\",\"logNo\":\"224316159263\",\"readDate\":\"2026-08-26T11:56:00.745Z\"},{\"blogId\":\"yoonybb\",\"logNo\":\"224346635036\",\"readDate\":\"2026-08-26T11:55:26.882Z\"},{\"blogId\":\"kimoon0107\",\"logNo\":\"224333349226\",\"readDate\":\"2026-08-26T11:54:41.558Z\"},{\"blogId\":\"zotcm\",\"logNo\":\"224369411997\",\"readDate\":\"2026-08-26T11:54:13.735Z\"},{\"blogId\":\"yangcae12\",\"logNo\":\"224351945226\",\"readDate\":\"2026-08-26T11:53:04.870Z\"},{\"blogId\":\"galmaegi2000\",\"logNo\":\"224315727974\",\"readDate\":\"2026-08-26T11:39:46.953Z\"},{\"blogId\":\"nana8272\",\"logNo\":\"224356669051\",\"readDate\":\"2026-08-26T11:38:45.696Z\"},{\"blogId\":\"yoonybb\",\"logNo\":\"224382791525\",\"readDate\":\"2026-08-26T11:37:28.025Z\"},{\"blogId\":\"digimon520\",\"logNo\":\"224164195693\",\"readDate\":\"2026-08-26T11:16:40.884Z\"},{\"blogId\":\"imgoodyy\",\"logNo\":\"224105276100\",\"readDate\":\"2026-08-26T11:15:45.781Z\"}]"
+        },
+        {
+          "name": "read.teamblog.post",
+          "value": "false"
+        },
+        {
+          "name": "FEED_EXPOSED_CONTENT_KEY",
+          "value": "[]"
+        },
+        {
+          "name": "gfp_uuid_iv",
+          "value": "c475cedb-a98b-4053-b804-bc57553f3ffc"
+        }
+      ]
+    },
+    {
+      "origin": "https://nid.naver.com",
+      "localStorage": [
+        {
+          "name": "glad_loader_policy_info",
+          "value": "{\"regDate\":\"2026-10-08T01:26:13.377Z\",\"data\":{\"versionInfo\":{\"policyVersion\":\"261007.01\",\"loaderVersion\":\"1.6.2\",\"sdkVersion\":\"3.11.0\"},\"sdkInfo\":{\"latestRatio\":1,\"config\":{}},\"sentryInfo\":{\"enableSentry\":false,\"config\":{\"sampleRate\":0.001}}}}"
+        },
+        {
+          "name": "3fbddd8d15feb0d3",
+          "value": "6ab1c6e80fdf12b41f0591eb003296bc9df33da06793781b6787befd0f5ed1ae"
+        },
+        {
+          "name": "d6277b37e628876c",
+          "value": "8fd68accb5ccbf48fda0eeb9c0468631a4366488597d6c85b9f4e93ffff56dca"
+        },
+        {
+          "name": "gfp_uuid_iv",
+          "value": "d86ce6e7-0c53-4b28-b21e-e043c8daf4e2"
+        }
+      ]
+    },
+    {
+      "origin": "https://m.search.naver.com",
+      "localStorage": [
+        {
+          "name": "sb-history",
+          "value": ""
+        },
+        {
+          "name": "sb-extra-keyword-info",
+          "value": "{\"recommPage\":1,\"shortentsGdid\":\"\"}"
+        },
+        {
+          "name": "sb-kh-ai-suggest",
+          "value": ""
+        },
+        {
+          "name": "search_history",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}
